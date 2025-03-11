@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 --> 👋 Hi, I'm [E.Bhuvanesh]!
 - 🔋 Passionate about Electric Vehicles, MATLAB, and Simulink
-- -🎓 Currently doing an EV course at Intellipaat
+-🎓 Currently doing an EV course at Intellipaat
 -🔭 I’m currently working on WBTL India (Wuhu bethel automotive safety systems) As a senior executive project management for Electronic parking brakes
  - 👯 I’m looking to collaborate on EV field
 -🚀 Working on EV tractive power calculation & control  
